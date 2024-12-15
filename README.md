@@ -54,3 +54,15 @@
 Цвет фона экрана — #FFFFFF.
 
 При нажатии цвет кнопки меняется на светло-зеленый.
+
+![image](https://github.com/user-attachments/assets/faf33fe5-8311-48a4-8bb5-559d2e310dbd)
+
+![image](https://github.com/user-attachments/assets/57ccb001-c97a-4ab5-aba3-12f323dbb6c3)
+
+![image](https://github.com/user-attachments/assets/dba6b523-c3be-4c46-b5b6-54790848240b)
+
+![image](https://github.com/user-attachments/assets/c6136697-11ed-47f5-a702-f7eab03b131b)
+
+
+
+
